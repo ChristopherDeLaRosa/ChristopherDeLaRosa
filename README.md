@@ -1,3 +1,11 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<p align="center">
+  <picture align="center">
+    <img align="center" src= "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+  </picture>
+</p>
+
 <h1>Hi there! 👋 </h1>
 <h4>I'm Christopher de la Rosa, a passionate software development student with a special focus on front-end development.</h4>
 

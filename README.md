@@ -5,7 +5,7 @@
 <h2>💫 About Me:</h2> 
 <div>
   <p>💻 I'm gaining experience working with HTML, CSS, JS, and React to bring elegant, dinamic and functional interfaces to life.</p>
-  <p>⚙️ I also have knowledge in .NET and SQL Server, allowing me to develop comprehensive and scalable solutions on the server side.</p>
+  <p>⚙️ I also have knowledge in back-end develoment, allowing me to develop comprehensive and scalable solutions on the server side.</p>
   <p>🌱 I'm constantly learning and seeking new ways to improve my skills and contribute to the world of software development.</p>
   <p><span>:white_check_mark:</span>Feel free to get in touch with me to discuss ideas, collaborate on projects, or simply chat about software development!</p>
 </div>
@@ -14,7 +14,7 @@
 <h2>🌐 Socials:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christopher-de-la-rosa-d%C3%ADaz/">
+  <a href="https://www.linkedin.com/in/christopher-de-la-rosa-d%C3%ADaz/ " target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>

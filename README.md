@@ -1,6 +1,12 @@
 <h1>Hi there! 👋 </h1>
 <h4>I'm Christopher de la Rosa, a passionate software development student with a special focus on front-end development.</h4>
 
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/christopher-de-la-rosa-d%C3%ADaz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+  <a href ="christopherdelarosadiaz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
+</p>
+
 <!-- About me info -->
 <h2>💫 About Me:</h2> 
 <div>
@@ -10,14 +16,6 @@
   <p><span>:white_check_mark:</span>Feel free to get in touch with me to discuss ideas, collaborate on projects, or simply chat about software development!</p>
 </div>
 
-<!-- Socials -->
-<h2>🌐 Socials:</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/christopher-de-la-rosa-d%C3%ADaz/ " target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
 
 <h2>💻 Tech Stack:</h2>
 <p align="center">

@@ -11,8 +11,8 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/christopher-de-la-rosa-d%C3%ADaz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
-  <a href ="christopherdelarosadiaz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
+  <a href="https://www.linkedin.com/in/christopher-de-la-rosa-d%C3%ADaz/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+  <a href ="christopherdelarosadiaz@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
 </p>
 
 <!-- About me info -->

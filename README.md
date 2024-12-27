@@ -6,31 +6,33 @@
   </picture>
 </p>
 
-<h1>Hi there! 👋 </h1>
-<h4>I'm Christopher de la Rosa, a passionate software development student with a special focus on front-end development.</h4>
 
-<!-- Socials -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/christopher-de-la-rosa-d%C3%ADaz/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
-  <a href ="christopherdelarosadiaz@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
-</p>
 
 <!-- About me info -->
-<h2>💫 About Me:</h2> 
+<h2>👋 About Me:</h2> 
 <div>
-  <p>💻 I'm gaining experience working with HTML, CSS, JS, and React to bring elegant, dinamic and functional interfaces to life.</p>
-  <p>⚙️ I also have knowledge in back-end develoment, allowing me to develop comprehensive and scalable solutions on the server side.</p>
-  <p>🌱 I'm constantly learning and seeking new ways to improve my skills and contribute to the world of software development.</p>
-  <p><span>:white_check_mark:</span>Feel free to get in touch with me to discuss ideas, collaborate on projects, or simply chat about software development!</p>
+  <p>Hola, soy Christopher, un estudiante de desarrollo de software apasionado por crear soluciones innovadoras tanto para la web como para aplicaciones de escritorio. Aunque estoy en las etapas finales de mis estudios, ya cuento con experiencia como freelance, desarrollando proyectos personalizados para diversas necesidades. </p>
+  
 </div>
 
+<h2> ⚙️ Lo que hago: </h2>
+<ul>
+  <li>Desarrollo web: diseño e implementación de interfaces modernas y funcionales.</li>
+  <li>Aplicaciones de escritorio: software eficiente y adaptado a las necesidades del usuario.</li>
+  <li>Soluciones completas: desde la idea inicial hasta la implementación final.</li>
+  
+</ul>
 
-<h2>💻 Tech Stack:</h2>
+
+<h2>🚀 Tech Stack:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,dotnet,mysql,github" />
   </a>
 </p>
+
+<h2>🌱 En constante aprendizaje:</h2>
+<p>Siempre estoy explorando nuevas herramientas y tecnologías para seguir mejorando mis habilidades y aportar valor en cada proyecto.</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChristopherDeLaRosa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -41,3 +43,5 @@
 [![](https://visitcount.itsvg.in/api?id=ChristopherDeLaRosa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+

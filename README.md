@@ -1,47 +1,149 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<p align="center">
-  <picture align="center">
-    <img align="center" src= "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
-  </picture>
-</p>
+<h1 align="center">Hi 👋 I'm Christopher de la Rosa</h1>
 
-
-
-<!-- About me info -->
-<h2>👋 About Me:</h2> 
-<div>
-  <p>Hola, soy Christopher, un estudiante de desarrollo de software apasionado por crear soluciones innovadoras tanto para la web como para aplicaciones de escritorio. Aunque estoy en las etapas finales de mis estudios, ya cuento con experiencia como freelance, desarrollando proyectos personalizados para diversas necesidades. </p>
-  
-</div>
-
-<h2> ⚙️ Lo que hago: </h2>
-<ul>
-  <li>Desarrollo web: diseño e implementación de interfaces modernas y funcionales.</li>
-  <li>Aplicaciones de escritorio: software eficiente y adaptado a las necesidades del usuario.</li>
-  <li>Soluciones completas: desde la idea inicial hasta la implementación final.</li>
-  
-</ul>
-
-
-<h2>🚀 Tech Stack:</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,dotnet,mysql,github" />
-  </a>
-</p>
-
-<h2>🌱 En constante aprendizaje:</h2>
-<p>Siempre estoy explorando nuevas herramientas y tecnologías para seguir mejorando mis habilidades y aportar valor en cada proyecto.</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChristopherDeLaRosa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopherDeLaRosa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherDeLaRosa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+Full Stack Engineer | .NET • React • Cloud • Docker
+</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChristopherDeLaRosa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
 
+I'm a **Full Stack Engineer with ~3 years of professional experience** building modern web applications and backend systems.
 
+I specialize in **.NET backend development with clean architectures**, modern **React frontends**, and **containerized deployments** using Docker and cloud services.
+
+Currently working at **Induban (Santo Domingo, Dominican Republic)** while also developing freelance projects and SaaS products.
+
+I enjoy building **robust, scalable systems** that solve real business problems.
+
+---
+
+# ⚙️ What I Do
+
+• Backend development with **.NET / C#**  
+• Modern frontend apps using **React + TypeScript**  
+• Designing **Clean Architecture & CQRS systems**  
+• Building **SaaS platforms and multi-tenant systems**  
+• Containerizing applications with **Docker**  
+• Implementing **CI/CD pipelines**  
+• Deploying services to **cloud platforms**
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,react,js,azure,docker,postgres,github" />
+</a>
+
+</p>
+
+**Backend**
+
+- .NET / C#
+- Python
+- REST APIs
+- Clean Architecture
+- CQRS
+
+**Frontend**
+
+- React
+- JavaScript
+- Modern UI development
+
+**DevOps & Cloud**
+
+- Docker
+- CI/CD pipelines
+- Cloud deployments
+
+**Databases**
+
+- PostgreSQL
+- SQL Server
+
+---
+
+# 🚀 Featured Projects
+
+## Machine Inventory Management System
+
+A full-stack platform for managing machine inventory, lifecycle tracking and operational monitoring.
+
+**Tech**
+
+.NET • React • PostgreSQL • Docker
+
+**Features**
+
+- Machine lifecycle tracking
+- Role-based access control
+- Audit logging
+- Dashboard analytics
+
+---
+
+## Training Management Platform
+
+Platform for managing employee training programs with automated notifications.
+
+**Tech**
+
+.NET • React • PostgreSQL
+
+**Features**
+
+- Course management
+- Employee enrollment
+- Automated email workflows
+- Reporting dashboard
+
+---
+
+## Event Logistics Management System
+
+End-to-end platform used to coordinate large event logistics with multiple operational roles.
+
+**Tech**
+
+.NET • React Native • PostgreSQL
+
+**Features**
+
+- Role-based mobile apps
+- Warehouse inventory system
+- Event deployment workflows
+- Operational task tracking
+
+---
+
+# 🌱 Currently Learning
+
+I'm currently expanding my skills in:
+
+- Kubernetes
+- Terraform
+- Infrastructure as Code
+- Advanced cloud architecture
+
+My goal is to grow further into **Cloud & DevOps engineering**.
+
+---
+
+# 📫 Let's Connect
+
+If you're interested in working together or discussing a project:
+
+💼 Open to freelance opportunities  
+📬 Feel free to reach out
+
+---
+
+<p align="center">
+⭐ If you find my work interesting, feel free to follow or connect!
+</p>

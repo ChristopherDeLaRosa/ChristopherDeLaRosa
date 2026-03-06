@@ -16,7 +16,7 @@ I specialize in **.NET backend development with clean architectures**, modern **
 
 I also work extensively in **Linux environments**, building automation tools and deployment workflows.
 
-Currently working at **Induban (Santo Domingo, Dominican Republic)** while also developing freelance projects and SaaS products.
+Currently working at Induban (Santo Domingo, Dominican Republic) as a **Software Engineer**, while also building freelance projects and developing SaaS products.
 
 I enjoy building **robust, scalable systems** that solve real business problems.
 

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Christopher de la Rosa</h1>
 
 <h3 align="center">
-Full Stack Engineer | .NET • React • Cloud • Docker
+Full Stack Engineer | .NET • React • Linux • Cloud • Docker
 </h3>
 
 ---
@@ -14,6 +14,8 @@ I'm a **Full Stack Engineer with ~3 years of professional experience** building 
 
 I specialize in **.NET backend development with clean architectures**, modern **React frontends**, and **containerized deployments** using Docker and cloud services.
 
+I also work extensively in **Linux environments**, building automation tools and deployment workflows.
+
 Currently working at **Induban (Santo Domingo, Dominican Republic)** while also developing freelance projects and SaaS products.
 
 I enjoy building **robust, scalable systems** that solve real business problems.
@@ -23,12 +25,13 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 # ⚙️ What I Do
 
 • Backend development with **.NET / C#**  
-• Modern frontend apps using **React + TypeScript**  
+• Modern frontend apps using **React + JavaScript**  
 • Designing **Clean Architecture & CQRS systems**  
 • Building **SaaS platforms and multi-tenant systems**  
 • Containerizing applications with **Docker**  
 • Implementing **CI/CD pipelines**  
-• Deploying services to **cloud platforms**
+• Deploying services to **cloud platforms**  
+• Automation and tooling with **Python and Bash on Linux environments**
 
 ---
 
@@ -37,12 +40,14 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 <p align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,react,js,azure,docker,postgres,github" />
+<img src="https://skillicons.dev/icons?i=linux,cs,dotnet,py,react,js,azure,docker,postgres,github" />
 </a>
 
 </p>
 
-**Backend**
+---
+
+## Backend
 
 - .NET / C#
 - Python
@@ -50,22 +55,44 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 - Clean Architecture
 - CQRS
 
-**Frontend**
+---
+
+## Frontend
 
 - React
 - JavaScript
 - Modern UI development
 
-**DevOps & Cloud**
+---
+
+## DevOps & Cloud
 
 - Docker
 - CI/CD pipelines
 - Cloud deployments
+- Containerized applications
 
-**Databases**
+---
+
+## Operating Systems
+
+- Linux
+- Bash scripting
+- Server administration
+
+---
+
+## Databases
 
 - PostgreSQL
 - SQL Server
+
+---
+
+## Automation
+
+- Python
+- Bash
 
 ---
 
@@ -145,5 +172,5 @@ If you're interested in working together or discussing a project:
 ---
 
 <p align="center">
-⭐ If you find my work interesting, feel free to follow or connect!
+⭐ If you find my work interesting, feel free to connect!
 </p>

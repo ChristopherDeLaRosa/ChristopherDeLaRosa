@@ -38,65 +38,31 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 # 🚀 Tech Stack
 
 <p align="center">
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,cs,dotnet,py,react,js,azure,docker,postgres,github" />
-</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,cs,dotnet,py,react,js,azure,docker,postgres,github" />
+  </a>
 </p>
 
----
+<div align="center">
 
-## Backend
+**Backend**
+`C#` `.NET` `REST APIs` `Clean Architecture` `CQRS`
 
-- .NET / C#
-- Python
-- REST APIs
-- Clean Architecture
-- CQRS
+**Frontend**
+`React` `JavaScript` `TypeScript`
 
----
+**DevOps & Cloud**
+`Docker` `Azure` `CI/CD` `GitHub Actions`
 
-## Frontend
+**Scripting & Automation**
+`Python` `Bash` `Linux`
 
-- React
-- JavaScript
-- Modern UI development
+**Databases**
+`PostgreSQL` `SQL Server`
 
----
+</div>
 
-## DevOps & Cloud
-
-- Docker
-- CI/CD pipelines
-- Cloud deployments
-- Containerized applications
-
----
-
-## Operating Systems
-
-- Linux
-- Bash scripting
-- Server administration
-
----
-
-## Databases
-
-- PostgreSQL
-- SQL Server
-
----
-
-## Automation
-
-- Python
-- Bash
-
----
-
-# 🚀 Featured Projects
+# 🛠️ Featured Projects
 
 ## Machine Inventory Management System
 

@@ -1,22 +1,20 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <h1 align="center">Hi 👋 I'm Christopher de la Rosa</h1>
-
 <h3 align="center">
-Full Stack Engineer | .NET • React • Linux • Cloud • Docker
+Full Stack Engineer | .NET • React • Linux • Docker
 </h3>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Full Stack Engineer with ~3 years of professional experience** building modern web applications and backend systems.
+I'm a **Full Stack Engineer** with professional experience building modern web applications and backend systems.
 
-I specialize in **.NET backend development with clean architectures**, modern **React frontends**, and **containerized deployments** using Docker and cloud services.
+I specialize in **.NET backend development with clean architectures**, modern **React frontends**, and **containerized deployments** using Docker.
 
 I also work extensively in **Linux environments**, building automation tools and deployment workflows.
 
-Currently working at Induban (Santo Domingo, Dominican Republic) as a **Software Engineer**, while also building freelance projects and developing SaaS products.
+Currently working at Induban (Santo Domingo, Dominican Republic) as an **Analyst Programmer**, while also building freelance projects and developing SaaS products.
 
 I enjoy building **robust, scalable systems** that solve real business problems.
 
@@ -24,14 +22,12 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 
 # ⚙️ What I Do
 
-• Backend development with **.NET / C#**  
-• Modern frontend apps using **React + JavaScript**  
-• Designing **Clean Architecture & CQRS systems**  
-• Building **SaaS platforms and multi-tenant systems**  
-• Containerizing applications with **Docker**  
-• Implementing **CI/CD pipelines**  
-• Deploying services to **cloud platforms**  
-• Automation and tooling with **Python and Bash on Linux environments**
+- Backend development with **.NET / C#**  
+- Modern frontend apps using **React + JavaScript**  
+- Database design and management with **SQL Server and PostgreSQL**  
+- Containerizing applications with **Docker**  
+- Deploying services on **Linux VPS environments**  
+- Automation and tooling with **Python and Bash on Linux environments**
 
 ---
 
@@ -39,7 +35,7 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cs,dotnet,py,react,js,azure,docker,postgres,github" />
+    <img src="https://skillicons.dev/icons?i=linux,cs,dotnet,py,react,js,docker,postgres,github" />
   </a>
 </p>
 
@@ -51,8 +47,8 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 **Frontend**
 `React` `JavaScript` `TypeScript`
 
-**DevOps & Cloud**
-`Docker` `Azure` `CI/CD` `GitHub Actions`
+**DevOps**
+`Docker` `CI/CD` `GitHub Actions`
 
 **Scripting & Automation**
 `Python` `Bash` `Linux`
@@ -62,18 +58,16 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 
 </div>
 
+---
+
 # 🛠️ Featured Projects
 
 ## Machine Inventory Management System
-
 A full-stack platform for managing machine inventory, lifecycle tracking and operational monitoring.
 
-**Tech**
-
-.NET • React • PostgreSQL • Docker
+**Tech:** .NET • React • PostgreSQL • Docker
 
 **Features**
-
 - Machine lifecycle tracking
 - Role-based access control
 - Audit logging
@@ -82,15 +76,11 @@ A full-stack platform for managing machine inventory, lifecycle tracking and ope
 ---
 
 ## Training Management Platform
-
 Platform for managing employee training programs with automated notifications.
 
-**Tech**
-
-.NET • React • PostgreSQL
+**Tech:** .NET • React • SQL Server
 
 **Features**
-
 - Course management
 - Employee enrollment
 - Automated email workflows
@@ -99,15 +89,11 @@ Platform for managing employee training programs with automated notifications.
 ---
 
 ## Event Logistics Management System
-
 End-to-end platform used to coordinate large event logistics with multiple operational roles.
 
-**Tech**
-
-.NET • React Native • PostgreSQL
+**Tech:** .NET • React Native • SQL Server
 
 **Features**
-
 - Role-based mobile apps
 - Warehouse inventory system
 - Event deployment workflows
@@ -118,7 +104,6 @@ End-to-end platform used to coordinate large event logistics with multiple opera
 # 🌱 Currently Learning
 
 I'm currently expanding my skills in:
-
 - Kubernetes
 - Terraform
 - Infrastructure as Code

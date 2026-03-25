@@ -118,7 +118,7 @@ My goal is to grow further into **Cloud & DevOps engineering**.
 If you're interested in working together or discussing a project:
 
 💼 Open to freelance opportunities  
-📬 Feel free to reach out
+📧 cdelarosa.dev@outlook.com  
 
 ---
 

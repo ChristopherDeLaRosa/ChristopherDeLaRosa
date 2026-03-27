@@ -42,7 +42,7 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 <div align="center">
 
 **Backend**
-`C#` `.NET` `REST APIs` `Clean Architecture` `CQRS`
+`C#` `.NET` `REST APIs` `Clean Architecture`
 
 **Frontend**
 `React` `JavaScript` `TypeScript`

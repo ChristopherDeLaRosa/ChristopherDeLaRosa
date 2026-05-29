@@ -64,10 +64,12 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 # 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ChristopherDeLaRosa-7410/A300D21BF7B003BB?sharingId=142D622D859D5193">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
 </p>
 
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — [View Credential 🔗](https://learn.microsoft.com/api/credentials/share/en-us/ChristopherDeLaRosa-7410/A300D21BF7B003BB?sharingId=142D622D859D5193)
 
 ---
 

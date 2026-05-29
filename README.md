@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Hi 👋 I'm Christopher de la Rosa</h1>
 <h3 align="center">
-Full Stack Engineer | .NET • React • Linux • Docker • Azure
+Full Stack Engineer | .NET • Python • React • Linux • Docker • Azure
 </h3>
 
 ---
@@ -22,12 +22,12 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 
 # ⚙️ What I Do
 
-- Backend development with **.NET / C#**  
+- Backend development with **.NET / C# and Python**  
 - Modern frontend apps using **React + JavaScript**  
 - Database design and management with **SQL Server and PostgreSQL**  
 - Containerizing applications with **Docker**  
 - Deploying services on **Linux VPS environments**  
-- Automation and tooling with **Python and Bash on Linux environments**
+- Automation and tooling with **Python and Bash**
 - Cloud fundamentals and services on **Microsoft Azure**
 
 ---

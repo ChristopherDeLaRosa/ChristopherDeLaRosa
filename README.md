@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Hi 👋 I'm Christopher de la Rosa</h1>
 <h3 align="center">
-Full Stack Engineer | .NET • React • Linux • Docker
+Full Stack Engineer | .NET • React • Linux • Docker • Azure
 </h3>
 
 ---
@@ -28,6 +28,7 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 - Containerizing applications with **Docker**  
 - Deploying services on **Linux VPS environments**  
 - Automation and tooling with **Python and Bash on Linux environments**
+- Cloud fundamentals and services on **Microsoft Azure**
 
 ---
 
@@ -35,28 +36,38 @@ I enjoy building **robust, scalable systems** that solve real business problems.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cs,dotnet,py,react,js,docker,postgres,github" />
+    <img src="https://skillicons.dev/icons?i=linux,cs,dotnet,py,react,js,docker,postgres,azure,github" />
   </a>
 </p>
 
 <div align="center">
 
 **Backend**
-`C#` `.NET` `REST APIs` `Clean Architecture`
+`C#` `.NET` `Python` `REST APIs` `Clean Architecture`
 
 **Frontend**
 `React` `JavaScript` `TypeScript`
 
-**DevOps**
-`Docker` `CI/CD` `GitHub Actions`
+**DevOps & Cloud**
+`Docker` `CI/CD` `GitHub Actions` `Microsoft Azure`
 
 **Scripting & Automation**
-`Python` `Bash` `Linux`
+`Python` `Bash` `PowerShell`
 
 **Databases**
 `PostgreSQL` `SQL Server`
 
 </div>
+
+---
+
+# 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
 ---
 
@@ -104,6 +115,7 @@ End-to-end platform used to coordinate large event logistics with multiple opera
 # 🌱 Currently Learning
 
 I'm currently expanding my skills in:
+
 - Kubernetes
 - Terraform
 - Infrastructure as Code
